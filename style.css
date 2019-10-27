@@ -1,0 +1,26 @@
+.to_calculate{
+  background: #9b0606;
+}
+body{
+  background:rgba(220, 240, 45, 0.671);
+}
+
+.n1 {
+  border: 2px solid #9b0606;
+}
+
+.n2 {
+  border: 2px solid #9b0606;
+}
+
+.to_calculate {
+  border: 2px solid #f1eded;
+}
+
+.Res {
+  border: 2px dashed #9b0606; 
+}
+
+select {
+  border: 2px dashed #9b0606; 
+}
